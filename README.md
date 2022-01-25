@@ -10,7 +10,7 @@
 
 ## Contact with me
 -   My GitHub: [https://github.com/sudoskys](https://github.com/sudoskys)
--   WORK E-mail: [Coldlando@hotmail.com](mailto:Coldlando@hotmail.com) (Often not online)
+-   WORK E-mail: [me@dianas.cyou](mailto:me@dianas.cyou) (Often not online)
 
 ### Finger print
 
