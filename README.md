@@ -15,7 +15,7 @@
 ### Finger print
 
 ```finger print
-Fingerprint=96C7 615B CBBB 6E7E 5047  D370 F731 8999 C189 B507
+Fingerprint=8ADE 9B5F 0EF0 4C14 70A9  4D9B 3532 3B90 B3BE 619C
 ```
 
 ### Pubilc key
