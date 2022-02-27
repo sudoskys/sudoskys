@@ -3,7 +3,6 @@
 
 ![en](https://github-readme-stats.vercel.app/api?username=sudoskys)
 
-### Tool
 
 [![s](https://img.shields.io/badge/Tool-luabook-blue)](https://lua.dianas.cyou)  [![s](https://img.shields.io/badge/Tool-markdown-green)](https://write.dianas.cyou)
 
