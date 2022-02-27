@@ -11,7 +11,7 @@
 ## Contact with me
 -   My GitHub: [https://github.com/sudoskys](https://github.com/sudoskys)
 -   WORK E-mail: [me@dianas.cyou](mailto:me@dianas.cyou) (Often not online)
-
+-   [Chat with me](https://matrix.to/#/!PiHKgwuINfPblZUscy:matrixim.cc?via=matrixim.cc)
 ### Finger print
 
 ```finger print
