@@ -3,6 +3,11 @@
 
 ![en](https://github-readme-stats.vercel.app/api?username=sudoskys)
 
+### Tool
+
+[![s](https://img.shields.io/badge/Tool-luabook-blue)](https://lua.dianas.cyou)  [![s](https://img.shields.io/badge/Tool-markdown-green)](https://write.dianas.cyou)
+
+
 ## About myself
 - High school student, not yet graduated
 - Python, android learner
@@ -22,10 +27,10 @@ Fingerprint=8ADE 9B5F 0EF0 4C14 70A9  4D9B 3532 3B90 B3BE 619C
 
 [HERE](https://raw.githubusercontent.com/sudoskys/sudoskys/main/pubilckey.txt)
 
-### Tool
 
-write.dianas.cyou
-lua.dianas.cyou
+
+
+
 
 
 <!--
