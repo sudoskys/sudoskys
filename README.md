@@ -1,33 +1,35 @@
 
-### Hi there 👋
 
-![en](https://github-readme-stats.vercel.app/api?username=sudoskys)
-
-
-[![s](https://img.shields.io/badge/Tool-luabook-blue)](https://lua.dianas.cyou)  [![s](https://img.shields.io/badge/Tool-markdown-green)](https://write.dianas.cyou)
+![a](https://s1.328888.xyz/2022/04/13/fPSGZ.jpg)
 
 
-## About myself
+
+##  🔭Who am i ？！
 - High school student, not yet graduated
 - Python, android learner
 - Learner
 
-## Contact with me
+
+## 📫Play with me
 -   My GitHub: [https://github.com/sudoskys](https://github.com/sudoskys)
 -   WORK E-mail: [me@dianas.cyou](mailto:me@dianas.cyou) (Often not online)
 -   [Chat with me by matrix](https://matrix.to/#/!PiHKgwuINfPblZUscy:matrixim.cc?via=matrixim.cc)
-### Finger print
+
+
+
+## 🌱Be Safe
 
 ```finger print
 Fingerprint=8ADE 9B5F 0EF0 4C14 70A9  4D9B 3532 3B90 B3BE 619C
 ```
+**Pubilc key**
 
-### Pubilc key
-
-[HERE](https://raw.githubusercontent.com/sudoskys/sudoskys/main/pubilckey.txt)
-
+[Look here～](https://raw.githubusercontent.com/sudoskys/sudoskys/main/pubilckey.txt)
 
 
+
+
+![en](https://github-readme-stats.vercel.app/api?username=sudoskys)
 
 
 
@@ -50,4 +52,3 @@ Here are some ideas to get you started:
 ![counter](https://count.getloli.com/get/@sudoskys-github-readme?theme=moebooru)
 
 
-[![s](https://img.shields.io/badge/Sponsor-Alipay-ff69b4)](https://azz.net/ly233)
