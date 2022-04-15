@@ -26,7 +26,12 @@ Fingerprint=8ADE 9B5F 0EF0 4C14 70A9  4D9B 3532 3B90 B3BE 619C
 
 [Look here～](https://raw.githubusercontent.com/sudoskys/sudoskys/main/pubilckey.txt)
 
-
+## 🥪Develop tool
+- Code Server
+- Colab
+- Pycharm
+- Aide
+- AndroidStudio
 
 
 ![en](https://github-readme-stats.vercel.app/api?username=sudoskys)
