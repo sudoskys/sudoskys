@@ -7,7 +7,7 @@
 ##  🔭Who am i ？！
 - High school student, not yet graduated
 - Python, android learner
-- Learner
+- Learner For STEAM
 
 
 ## 📫Play with me
