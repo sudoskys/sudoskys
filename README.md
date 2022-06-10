@@ -8,7 +8,7 @@
 - High school student, not yet graduated
 - Python, android learner
 - Learner For STEAM
-
+- 喜欢重构与问题解决
 
 ## 📫Play with me
 -   My GitHub: [https://github.com/sudoskys](https://github.com/sudoskys)
@@ -32,7 +32,6 @@ Fingerprint=8ADE 9B5F 0EF0 4C14 70A9  4D9B 3532 3B90 B3BE 619C
 - Pycharm
 - Aide
 - AndroidStudio
-
 
 ![en](https://github-readme-stats.vercel.app/api?username=sudoskys)
 
