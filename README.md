@@ -2,14 +2,14 @@
 
 
 <a href="https://profile.codersrank.io/user/sudoskys/">
-  <img width="50%" align="left" src="https://metrics.lecoq.io/sudoskys?template=classic&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai" />
+  <img width="45%" align="right" src="https://metrics.lecoq.io/sudoskys?template=classic&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai" />
 </a>
 
-
+<!--
 <a href="https://profile.codersrank.io/user/sudoskys/">
 <img width="50%" align="left" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sudoskys&skills=Java,JSON,HTML,JavaScript,,Python,Shell,TypeScript,Vue" />
 </a>
-
+-->
 
 <!--
 <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sudoskys&skills=Java,JSON,HTML,JavaScript,,Python,Shell,TypeScript,Vue" />
