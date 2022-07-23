@@ -2,7 +2,7 @@
 
 
 <a href="https://profile.codersrank.io/user/sudoskys/">
-  <img width="45%" align="right" src="https://metrics.lecoq.io/sudoskys?template=classic&languages=1&base.indepth=false&base.hireable=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai" />
+  <img width="45%" align="right" src="https://metrics.lecoq.io/sudoskys?template=classic&base.activity=0&base.community=0&languages=1&achievements=1&code=1&repositories=1&isocalendar=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&code.lines=12&code.load=400&code.days=3&code.visibility=public&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&repositories.pinned=0&config.timezone=Asia%2FShanghai" />
 </a>
 
 <!--
