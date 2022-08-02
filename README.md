@@ -25,7 +25,7 @@
 -   My GitHub: [https://github.com/sudoskys](https://github.com/sudoskys)
 -   WORK E-mail: [me@dianas.cyou](mailto:me@dianas.cyou) (Often not online)
 -   [Chat with me by matrix](https://matrix.to/#/!FIjpqMBJJrYIECWliq:matrix.org?via=matrix.org)
--   [![s](https://img.shields.io/badge/Barrierfree-feeding-DB94A2)](https://dun.mianbaoduo.com/@Sky0717)
+-   [![s](https://img.shields.io/badge/无障碍-赞助-DB94A2)](https://dun.mianbaoduo.com/@Sky0717)
 
 
 ## 🌱Be Safe
