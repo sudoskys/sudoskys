@@ -24,7 +24,7 @@
 ## 📫Play with me
 -   My GitHub: [https://github.com/sudoskys](https://github.com/sudoskys)
 -   WORK E-mail: [me@dianas.cyou](mailto:me@dianas.cyou) (Often not online)
--   [Chat with me by matrix](https://matrix.to/#/!FIjpqMBJJrYIECWliq:matrix.org?via=matrix.org)
+-   [Chat with me by Keybase](https://keybase.io/alicecoco)
 -   [![s](https://img.shields.io/badge/无障碍-赞助-DB94A2)](https://dun.mianbaoduo.com/@Sky0717)
 
 
