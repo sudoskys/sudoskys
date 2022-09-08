@@ -48,7 +48,7 @@ Fingerprint=8ADE 9B5F 0EF0 4C14 70A9  4D9B 3532 3B90 B3BE 619C
 
 ------------
 
-![a](https://s1.328888.xyz/2022/04/13/fPSGZ.jpg)
+![a](https://github.com/sudoskys/sudoskys/blob/main/love.jpeg)
 
 
 
