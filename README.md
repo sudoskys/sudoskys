@@ -17,7 +17,7 @@
 
 ##  🔭Who am i ？！
 - High school student, not yet graduated
-- Python/Kotlin/Android learner
+- Python/C/Kotlin/Android learner
 - Learner For STEAM
 - 喜欢重构与问题解决
 
