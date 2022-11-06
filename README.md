@@ -39,7 +39,8 @@ Fingerprint=3f9595ba83dc24692b5388d9a7639ce0c4d18c1b
 [Look here～](https://keybase.io/alicecoco)
 
 ## 🥪Develop tool
-- Code Server(托管Railway账户已经被Rssbot炸掉了)
+- Code Server
+- Vscode
 - Colab
 - Pycharm
 - Intellij Idea
