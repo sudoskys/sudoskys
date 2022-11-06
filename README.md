@@ -20,6 +20,7 @@
 - Python/C/Kotlin/Android/前端四件套 learner
 - Learner For STEAM
 - 喜欢重构与问题解决
+- ArchLinux User
 
 ## 📫Play with me
 -   My GitHub: [https://github.com/sudoskys](https://github.com/sudoskys)
