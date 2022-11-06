@@ -19,7 +19,7 @@
 - High school student, not yet graduated
 - Python/C/Kotlin/Android/前端四件套 learner
 - Learner For STEAM
-- 喜欢重构与问题解决
+- 喜欢做好玩的东西
 - ArchLinux User
 
 ## 📫Play with me
