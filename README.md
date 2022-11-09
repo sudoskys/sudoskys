@@ -26,7 +26,7 @@
 -   My GitHub: [https://github.com/sudoskys](https://github.com/sudoskys)
 -   WORK E-mail: [me@dianas.cyou](mailto:me@dianas.cyou) (Often not online)
 -   [Chat with me by Keybase](https://keybase.io/alicecoco)
--   [![s](https://img.shields.io/badge/支持-Sponsor-DB94A2)](https://azz.net/ly233)
+-   [![s](https://img.shields.io/badge/支持-Sponsor-DB94A2)](https://afdian.net/a/Suki1077)
 
 
 ## 🌱Be Safe
