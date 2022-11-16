@@ -25,7 +25,8 @@
 ## 📫Contact me
 -   [Chat with me by Keybase](https://keybase.io/alicecoco)
 -   My GitHub: [https://github.com/sudoskys](https://github.com/sudoskys)
--   WORK E-mail: [me@dianas.cyou](mailto:me@dianas.cyou)
+-   E-mail: [me@dianas.cyou](mailto:me@dianas.cyou)
+-   My [Profile](https://profile.codersrank.io/user/sudoskys/)
 -   [![s](https://img.shields.io/badge/Become-Sponsor-DB94A2)](https://afdian.net/a/Suki1077)
 
 ```finger print
