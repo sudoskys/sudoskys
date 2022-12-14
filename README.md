@@ -16,7 +16,7 @@
 
 ##  👋Who am i
 
-- 是在校生
+- 咸鱼学生
 - Python/Lua developer
 - Learning Front-end Web  dev
 - Want to learn Go/Kotlin/Android dev
