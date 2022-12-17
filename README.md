@@ -17,7 +17,7 @@
 ##  👋Who am i
 
 - 咸鱼学生
-- Python/Lua developer
+- Python/Lua/Js developer
 - Learning Front-end Web  dev
 - Want to learn Go/Kotlin/Android dev
 - Arch Linux user
