@@ -22,6 +22,7 @@
 - Arch Linux user
 - I love rock music
 - Opensource
+- Crashed Nvidia Driver Cause Stopped
 
 ## 📫Contact me
 
