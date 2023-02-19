@@ -15,14 +15,14 @@
 
 ##  👋Who am i
 
-- 新生
+- Student
 - Python/Lua/Js developer
 - Learning Front-end Web  dev
 - Want to learn Go/Kotlin/Android dev
 - Arch Linux user
-- I love rock music
+- I love music
 - Opensource
-- Crashed Nvidia Driver Cause Stopped
+- Fixed Nvidia Driver
 
 ## 📫Contact me
 
