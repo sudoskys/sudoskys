@@ -22,7 +22,6 @@
 - Arch Linux user
 - I love music
 - Opensource
-- Fixed Nvidia Driver
 
 ## 📫Contact me
 
