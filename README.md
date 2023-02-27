@@ -14,7 +14,7 @@
 
 ##  👋Who am i
 
-- Student
+- Student/ Working on my class
 - Python/Lua/Js developer
 - Learning Front-end Web  dev
 - Want to learn Go/Kotlin/Android dev
