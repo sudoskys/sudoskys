@@ -12,6 +12,7 @@
 <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sudoskys&skills=Java,JSON,HTML,JavaScript,,Python,Shell,TypeScript,Vue" />
 -->
 
+
 ##  👋Who am i
 
 - Student/ Working on my class
