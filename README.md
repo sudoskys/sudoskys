@@ -25,8 +25,8 @@
 
 ## 📫Contact me
 
--   Chat with me by [Keybase](https://keybase.io/alicecoco)
 -   Ask me in [Issue](https://github.com/sudoskys/sudoskys/issues)
+-   Chat with me by [Keybase](https://keybase.io/alicecoco)
 -   My [Blog](https://blog.dianas.cyou)
 -   My [GitHub](https://github.com/sudoskys)
 -   My [Profile](https://profile.codersrank.io/user/sudoskys/)
