@@ -4,11 +4,6 @@
 </a>
 
 <!--
-<a href="https://profile.codersrank.io/user/sudoskys/">
-<img width="50%" align="left" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sudoskys&skills=Java,JSON,HTML,JavaScript,,Python,Shell,TypeScript,Vue" />
-</a>
--->
-<!--
 <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sudoskys&skills=Java,JSON,HTML,JavaScript,,Python,Shell,TypeScript,Vue" />
 -->
 
@@ -51,9 +46,9 @@ Fingerprint=3f9595ba83dc24692b5388d9a7639ce0c4d18c1b
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
 ------------
-
+<!--
 ![a](https://github.com/sudoskys/sudoskys/blob/main/love.jpeg)
-
+-->
 
 
 
