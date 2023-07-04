@@ -33,7 +33,7 @@
 ```finger print
 Fingerprint=3f9595ba83dc24692b5388d9a7639ce0c4d18c1b
 ```
-
+<!--
 ## 🌾 ?
 
 ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
@@ -46,7 +46,7 @@ Fingerprint=3f9595ba83dc24692b5388d9a7639ce0c4d18c1b
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
 ------------
-<!--
+
 ![a](https://github.com/sudoskys/sudoskys/blob/main/love.jpeg)
 -->
 
