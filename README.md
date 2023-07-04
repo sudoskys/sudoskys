@@ -23,6 +23,7 @@
 - Rock/Punk Music
 - Gamer
 - Sleep 12 hours a day
+- **Never watch virtual up**
 
 ## 📫Contact me
 
