@@ -7,18 +7,21 @@
 <img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sudoskys&skills=Java,JSON,HTML,JavaScript,,Python,Shell,TypeScript,Vue" />
 -->
 
-
 ##  👋Who am i
 
-- Student
-- Python/Lua/Js/Not developer
+```python3
+class Sudoskys(alien):
+    skills: List[str] = ["python", "lua"]
+    tag: List[str] = ["gamer", "programmer", "student"]
+    hobby: List[str] = ["game", "anime", "rock/punk music"]
+```
+
+### 🥕 Bio
+
 - Learning Front-end Web  dev
 - Want to learn Go/Kotlin/Android dev
-- ArchLinux/Windrows user
-- Rock/Punk Music
-- Gamer
-- Sleep 12 hours a day
-- **Never watch virtual up**
+- I sleep 12 hours a day
+- I never watch virtual youtuber, but I like to watch virtual youtuber's clips on bilibili.
 
 ## 📫Contact me
 
