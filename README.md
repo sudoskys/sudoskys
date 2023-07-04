@@ -15,13 +15,14 @@
 
 ##  👋Who am i
 
-- Student/ Working on my class
-- Python/Lua/Js developer
+- Student
+- Python/Lua/Js/Not developer
 - Learning Front-end Web  dev
 - Want to learn Go/Kotlin/Android dev
-- Arch Linux user
-- I love music
-- Opensource
+- ArchLinux/Windrows user
+- Rock/Punk Music
+- Gamer
+- Sleep 12 hours a day
 
 ## 📫Contact me
 
@@ -37,14 +38,14 @@
 Fingerprint=3f9595ba83dc24692b5388d9a7639ce0c4d18c1b
 ```
 
-## 🌾 Cookies ^_^ 
+## 🌾 ?
 
 ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c++&logoColor=white)
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
