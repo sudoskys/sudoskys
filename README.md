@@ -33,26 +33,27 @@ class Sudoskys(alien):
 -   E-mail: [me@dianas.cyou](mailto:me@dianas.cyou)
 -   [![s](https://img.shields.io/badge/Become-Sponsor-DB94A2)](https://afdian.net/a/Suki1077)
 
+
+<a href="https://wakatime.com">
+<img width="45%" align="right" src="https://wakatime.com/share/@fe5f18fa-b0f1-4530-aa8d-ee63139b338d/47b57812-1c32-44b7-94ba-56f3d911e425.png" />
+</a>
+
 ```finger print
 Fingerprint=3f9595ba83dc24692b5388d9a7639ce0c4d18c1b
 ```
-<!--
-## 🌾 ?
 
+
+<!--
 ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![C++](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c++&logoColor=white)
-
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 
 ------------
 
 ![a](https://github.com/sudoskys/sudoskys/blob/main/love.jpeg)
 -->
-
-
-
 
