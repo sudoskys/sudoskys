@@ -22,6 +22,7 @@ class Sudoskys(alien):
 - Want to learn Go/Kotlin/Android dev
 - I sleep 12 hours a day
 - I never watch virtual youtuber, but I like to watch virtual youtuber's clips on bilibili.
+- patients
 
 ## 📫Contact me
 
