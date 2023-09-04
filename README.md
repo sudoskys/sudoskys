@@ -11,7 +11,7 @@
 
 ```python3
 class Sudoskys(alien):
-    skills: List[str] = ["python", "lua"]
+    skills: List[str] = ["python", "lua", "C", "Java"]
     tag: List[str] = ["gamer", "programmer", "student"]
     hobby: List[str] = ["game", "anime", "rock/punk music"]
 ```
@@ -20,9 +20,8 @@ class Sudoskys(alien):
 
 - Learning Front-end Web  dev
 - Want to learn Go/Kotlin/Android dev
-- I sleep 12 hours a day
+- I sleep 9 hours a day
 - I never watch virtual youtuber, but I like to watch virtual youtuber's clips on bilibili.
-- patients
 
 ## 📫Contact me
 
