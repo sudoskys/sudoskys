@@ -21,7 +21,7 @@ class Sudoskys(alien):
 - Learning Front-end Web  dev
 - Want to learn Go/Kotlin/Android dev
 - I sleep 9 hours a day
-- I never watch virtual youtuber, but I like to watch virtual youtuber's clips on bilibili.
+- Watching MYGO
 
 ## 📫Contact me
 
