@@ -18,7 +18,7 @@ class Sudoskys(alien):
 
 ### 🥕 Bio
 
-- Learning Front-end Web  dev
+- Learning software engineering
 - Want to learn Go/Kotlin/Android dev
 - I sleep 9 hours a day
 - Watching MYGO
