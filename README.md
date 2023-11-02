@@ -32,7 +32,7 @@ class Sudoskys(alien):
 -   My [GitHub](https://github.com/sudoskys)
 -   My [Profile](https://profile.codersrank.io/user/sudoskys/)
 -   E-mail: [me@dianas.cyou](mailto:me@dianas.cyou)
--   [![s](https://img.shields.io/badge/Become-Sponsor-DB94A2)](https://afdian.net/a/Suki1077)
+-   [![s](https://img.shields.io/badge/Buyme-food-DB94A2)](https://afdian.net/a/Suki1077)
 
 
 <a href="https://wakatime.com">
