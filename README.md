@@ -20,9 +20,9 @@ class Sudoskys(alien):
 
 - Learning software engineering
 - Want to learn Go/Kotlin/Android dev
-- I sleep 5 hours a day
-- Just Living
-- 养生
+- I sleep 25 hours a day
+- Just Eating
+- 只睡楼顶
 
 ## 📫Contact me
 
