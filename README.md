@@ -23,6 +23,7 @@ class Sudoskys(alien):
 - I sleep 25 hours a day
 - Just Eating
 - 只睡楼顶
+- 170/55
 
 ## 📫Contact me
 
