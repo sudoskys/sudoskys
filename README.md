@@ -21,7 +21,7 @@ class Sudoskys(alien):
 - Learning software engineering
 - Want to learn Go/Kotlin/Android dev
 - I sleep 25 hours a day
-- Just Eating
+- What I have learned from my long life is to eat
 - 只睡楼顶
 - 客服小祥，但是 Coding
 - 170/55
