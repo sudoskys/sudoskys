@@ -26,6 +26,8 @@ class Sudoskys(alien):
 - 客服小祥，但是 Coding
 - 170/55
 - 在上幼儿园
+- 挖坑不填小能手
+- Python 雇佣兵
 
 ## 📫Contact me
 
