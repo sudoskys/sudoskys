@@ -23,7 +23,6 @@ class Sudoskys(alien):
 - I sleep 25 hours a day
 - What I have learned from my long life is to eat
 - 只睡楼顶
-- 客服小祥，但是 Coding
 - 170/55
 - 在上幼儿园
 - 挖坑不填小能手
@@ -36,8 +35,9 @@ class Sudoskys(alien):
 -   My [Blog](https://blog.dianas.cyou)
 -   My [GitHub](https://github.com/sudoskys)
 -   My [Profile](https://profile.codersrank.io/user/sudoskys/)
--   E-mail: [me@dianas.cyou](mailto:me@dianas.cyou)
--   [![s](https://img.shields.io/badge/Buyme-food-DB94A2)](https://afdian.net/a/Suki1077)
+-   Business cooperation contact E-mail: [me@dianas.cyou](mailto:me@dianas.cyou)
+-   Sponsor My OpenSource Endeavors：[![s](https://img.shields.io/badge/Buyme-food-DB94A2)](https://afdian.net/a/Suki1077)
+-   Accept paid assistance on the code
 
 
 <a href="https://wakatime.com">
