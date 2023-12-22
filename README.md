@@ -20,13 +20,11 @@ class Sudoskys(alien):
 
 - Learning software engineering
 - Want to learn Go/Kotlin/Android dev
-- I sleep 25 hours a day
 - What I have learned from my long life is to eat
 - 只睡楼顶
 - 170/55
 - 在上幼儿园
-- 挖坑不填小能手
-- Python 雇佣兵
+- Jetbrain 全系使用
 
 ## 📫Contact me
 
@@ -35,7 +33,7 @@ class Sudoskys(alien):
 -   My [Blog](https://blog.dianas.cyou)
 -   My [GitHub](https://github.com/sudoskys)
 -   My [Profile](https://profile.codersrank.io/user/sudoskys/)
--   Business cooperation contact E-mail: [me@dianas.cyou](mailto:me@dianas.cyou)
+-   Business Cooperation contact E-mail: [me@dianas.cyou](mailto:me@dianas.cyou)
 -   Sponsor My OpenSource Endeavors：[![s](https://img.shields.io/badge/Buyme-food-DB94A2)](https://afdian.net/a/Suki1077)
 -   Accept paid assistance on the code
 
