@@ -28,14 +28,13 @@ class Sudoskys(alien):
 
 ## 📫Contact me
 
--   Ask me in [Issue](https://github.com/sudoskys/sudoskys/issues)
--   Chat with me by [Keybase](https://keybase.io/alicecoco)
+-   Ask Me In [Issue](https://github.com/sudoskys/sudoskys/issues)
+-   Follow My [Keybase](https://keybase.io/alicecoco)
 -   My [Blog](https://blog.dianas.cyou)
 -   My [GitHub](https://github.com/sudoskys)
 -   My [Profile](https://profile.codersrank.io/user/sudoskys/)
--   Business Cooperation contact E-mail: [me@dianas.cyou](mailto:me@dianas.cyou)
+-   Email: [me@dianas.cyou](mailto:me@dianas.cyou)
 -   Sponsor My OpenSource Endeavors：[![s](https://img.shields.io/badge/Buyme-food-DB94A2)](https://afdian.net/a/Suki1077)
--   Accept paid assistance on the code
 
 
 <a href="https://wakatime.com">
