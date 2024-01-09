@@ -33,8 +33,8 @@ class Sudoskys(alien):
 -   My [Blog](https://blog.dianas.cyou)
 -   My [GitHub](https://github.com/sudoskys)
 -   My [Profile](https://profile.codersrank.io/user/sudoskys/)
--   Email: [me@dianas.cyou](mailto:me@dianas.cyou)
--   Sponsor My OpenSource Endeavors：[![s](https://img.shields.io/badge/Buyme-food-DB94A2)](https://afdian.net/a/Suki1077)
+-   Email [me@dianas.cyou](mailto:me@dianas.cyou)
+-   Sponsor Me [![s](https://img.shields.io/badge/Buyme-food-DB94A2)](https://afdian.net/a/Suki1077)
 
 
 <a href="https://wakatime.com">
