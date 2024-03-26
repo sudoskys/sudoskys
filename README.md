@@ -19,8 +19,8 @@ class Sudoskys(alien):
 ### 🥕 Bio
 
 - Learning software engineering
-- Want to learn Go/Kotlin/Android dev
-- What I have learned from my long life is to eat
+- I use Python Kotlin Go Typescript Flutter(Dart) / NextJS NuxtJs / MD Design to develop APP/Web/Backend. I like Python best, not Java
+- I hope to write something nice one day
 - 只睡楼顶
 - 170/55
 - 在上幼儿园
