@@ -18,10 +18,10 @@ class Sudoskys(alien):
 
 ### 🥕 Bio
 
-- Learning software engineering
-- I use Python Kotlin Go Typescript Flutter(Dart) / NextJS NuxtJs / MD Design to develop APP/Web/Backend. I like Python best, not Java
-- I hope to write something nice one day
-- 只睡楼顶
+- Learning software engineering.
+- I use `Python Kotlin Go Typescript Flutter(Dart)` / `NextJS NuxtJs` / `MD Design` to develop APP/Web/Backend. I like Python best, not Java.
+- I hope to write something nice one day.
+- I hate making simple things complicated.
 - 170/55
 - 在上幼儿园
 - Jetbrain 全系使用
