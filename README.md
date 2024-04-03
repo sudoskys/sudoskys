@@ -26,6 +26,7 @@ class Sudoskys(alien):
 - 在上幼儿园
 - Jetbrain 全系使用
 
+
 ## 📫Contact me
 
 -   Ask Me In [Issue](https://github.com/sudoskys/sudoskys/issues)
@@ -46,6 +47,13 @@ class Sudoskys(alien):
 Fingerprint=3f9595ba83dc24692b5388d9a7639ce0c4d18c1b
 ```
 
+## 🥕 Stack
+- **Backend**:`Python/FastApi`,~`Kotlin`~,~`GO`~,`Node`
+- **UI**:`MUI`,~`vuetifyjs`~,~`shadcn`~,`tailwandcss/unocss`
+- **Web**:`Typescript/Vue3/React`,~`SoildJs`~,`~astro~`,`Vite`,`NextJs`,~`NestJs`~
+- **APP**:`Flutter/Dart`,~`Kotlin/Jetpack`~
+- **Database**:`Redis`,`MongoDB`,`Mysql`,`RabbitMQ`
+- **Other**: `Vercel`,`Linux`,`Java`,`Docker`,`Luajava`
 
 <!--
 ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
