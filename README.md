@@ -19,7 +19,7 @@ class Sudoskys(alien):
 ### 🥕 Bio
 
 - Learning software engineering.
-- I use `Python Kotlin Go Typescript Flutter(Dart)` / `NextJS NuxtJs Unocss Vite React Vue3` / `MD Design` to develop APP/Web/Backend. I like Python best, not Java.
+- I already/will build APP/Website/Backend. I like Python best, not Java.
 - I hope to write something nice one day.
 - I hate making simple things complicated.
 - 170/55
@@ -50,7 +50,7 @@ Fingerprint=3f9595ba83dc24692b5388d9a7639ce0c4d18c1b
 ## 🥕 Stack
 - **Backend**:`Python/FastApi`,~`Kotlin`~,~`GO`~,`Node`
 - **UI**:`MUI`,~`vuetifyjs`~,~`shadcn`~,`tailwandcss/unocss`
-- **Web**:`Typescript/Vue3/React`,~`SoildJs`~,`~astro~`,`Vite`,`NextJs`,~`NestJs`~
+- **Web**:`Typescript/Vue3/React`,~`SoildJs`~,~`astro`~,`Vite`,`NextJs`,~`NestJs`~
 - **APP**:`Flutter/Dart`,~`Kotlin/Jetpack`~
 - **Database**:`Redis`,`MongoDB`,`Mysql`,`RabbitMQ`
 - **Other**: `Vercel`,`Linux`,`Java`,`Docker`,`Luajava`
