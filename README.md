@@ -11,7 +11,6 @@
 
 ```python3
 class Sudoskys(alien):
-    skills: List[str] = ["python", "kotlin", "typescript", "luajava", "C", "java"]
     tag: List[str] = ["gamer", "programmer", "student"]
     hobby: List[str] = ["game", "anime", "rock/punk music"]
 ```
