@@ -3,9 +3,6 @@
 <img width="45%" align="right" src="https://metrics.lecoq.io/sudoskys?template=classic&languages=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=HTML%2CCSS%2CSCSS%2CTeX&languages.skipped=Blog&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai" />
 </a>
 
-<!--
-<img width="50%" align="right" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sudoskys&skills=Java,JSON,HTML,JavaScript,,Python,Shell,TypeScript,Vue" />
--->
 
 ##  👋Who am i
 
@@ -67,4 +64,5 @@ Fingerprint=3f9595ba83dc24692b5388d9a7639ce0c4d18c1b
 
 ![a](https://github.com/sudoskys/sudoskys/blob/main/love.jpeg)
 -->
+<a href="https://gitroll.io/profile/upUF0dJ7o4eSqVtSrfVRN81G2PsL2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/upUF0dJ7o4eSqVtSrfVRN81G2PsL2" alt="GitRoll Profile Badge"/></a>
 
