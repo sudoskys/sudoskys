@@ -39,7 +39,7 @@ Fingerprint=3f9595ba83dc24692b5388d9a7639ce0c4d18c1b
 
 ## 🥕 Stack
 - **Backend**:`Python/FastApi`,~`Kotlin`~,~`GO`~,`Node`
-- **UI**:`MUI`,~`vuetifyjs`~,~`shadcn`~,`tailwandcss/unocss`
+- **UI**:`MUI`,`vuetifyjs`,~`shadcn`~,`tailwandcss/unocss`
 - **Web**:`Typescript/Vue3/React`,~`SoildJs`~,~`astro`~,`Vite`,`NextJs`,~`NestJs`~,`remix`
 - **APP**:`Flutter/Dart`,~`Kotlin/Jetpack`~
 - **Database**:`Redis`,`MongoDB`,`Mysql`,`RabbitMQ`
