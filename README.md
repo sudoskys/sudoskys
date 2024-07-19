@@ -1,28 +1,20 @@
 ##  👋Who am i
 
 ```kotlin
-class Sudoskys : Alien() {
-    init {
-        val tag = listOf("gamer", "programmer", "student")
-        val hobby = listOf("game", "anime", "rock/punk music")
-        println("Greetings from Sudoskys! I'm all about: ${tag.joinToString(", ")}. Hobbies: ${hobby.joinToString(", ")}.")
-        println("Reach me at: me@dianas.cyou 🌟")
-
-        val favStack = mapOf(
-            "Backend" to listOf("Python/FastApi", "Kotlin", "GO", "Node"),
-            "UI" to listOf("MUI", "vuetifyjs", "shadcn", "tailwandcss/unocss"),
-            "Web" to listOf("Typescript", "Vue3", "React", "SolidJs", "astro", "Vite", "NextJs", "NestJs", "remix"),
-            "APP" to listOf("Flutter/Dart", "Kotlin/Jetpack"),
-            "Database" to listOf("Redis", "MongoDB", "Mysql", "RabbitMQ"),
-            "Other" to listOf("Vercel", "Linux", "Java", "Docker", "Luajava")
-        )
-
-        println("Tech Stack:\n${favStack.entries.joinToString("\n") { "${it.key}: ${it.value.joinToString(", ")}" }}")
-    }
-}
+data class Bio(val intro: String, val preferences: Pair<String, String>, val dislikes: String)
 
 fun main() {
-    Sudoskys()
+    val bio = Bio(
+        intro = "Learning software engineering.",
+        preferences = "Python" to "Java",
+        dislikes = "I hate making simple things complicated."
+    )
+    println("""
+        BIO: 
+        ${bio.intro}
+        Preferred Language: ${bio.preferences.first}, Not: ${bio.preferences.second}
+        Dislikes: ${bio.dislikes}
+    """.trimIndent())
 }
 ```
 
