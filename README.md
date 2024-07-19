@@ -1,9 +1,29 @@
 ##  👋Who am i
 
-```python3
-class Sudoskys(alien):
-    tag: List[str] = ["gamer", "programmer", "student"]
-    hobby: List[str] = ["game", "anime", "rock/punk music"]
+```kotlin
+class Sudoskys : Alien() {
+    init {
+        val tag = listOf("gamer", "programmer", "student")
+        val hobby = listOf("game", "anime", "rock/punk music")
+        println("Greetings from Sudoskys! I'm all about: ${tag.joinToString(", ")}. Hobbies: ${hobby.joinToString(", ")}.")
+        println("Reach me at: me@dianas.cyou 🌟")
+
+        val favStack = mapOf(
+            "Backend" to listOf("Python/FastApi", "Kotlin", "GO", "Node"),
+            "UI" to listOf("MUI", "vuetifyjs", "shadcn", "tailwandcss/unocss"),
+            "Web" to listOf("Typescript", "Vue3", "React", "SolidJs", "astro", "Vite", "NextJs", "NestJs", "remix"),
+            "APP" to listOf("Flutter/Dart", "Kotlin/Jetpack"),
+            "Database" to listOf("Redis", "MongoDB", "Mysql", "RabbitMQ"),
+            "Other" to listOf("Vercel", "Linux", "Java", "Docker", "Luajava")
+        )
+
+        println("Tech Stack:\n${favStack.entries.joinToString("\n") { "${it.key}: ${it.value.joinToString(", ")}" }}")
+    }
+}
+
+fun main() {
+    Sudoskys()
+}
 ```
 
 ### 🥕 Bio
