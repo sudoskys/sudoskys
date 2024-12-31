@@ -11,7 +11,7 @@ data class Profile(
         "Blog" to "https://blog.dianas.cyou",
         "Keybase" to "https://keybase.io/alicecoco",
         "Issue" to "https://github.com/sudoskys/sudoskys/issues",
-        "Sponsor" to "https://afdian.net/a/Suki1077"
+        "Sponsor" to "https://afdian.com/a/Suki1077"
     )
 )
 val me = Profile()
