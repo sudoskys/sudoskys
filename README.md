@@ -20,6 +20,7 @@ println(me)
 
 ### 🥕 Focus Recently
 
+- Studying to work on bigger projects
 - Playground:read soucecode from https://github.com/yjl9903/AnimeGarden to learn astro/Morden complex frontend
 - Plan:check https://github.com/mylxsw/aidea-server
 - Plan:learn from https://github.com/flutter/samples and write an app for [mute] 
