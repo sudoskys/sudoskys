@@ -20,9 +20,8 @@ println(me)
 
 ### 🥕 Focus Recently
 
+- Relearn:Research cluster deployment, database administration (DBA), algorithms. Review computer fundamentals, network fundamentals. Practice Golang backend.
 - Plan:Researching K8S
-- Plan:learn Golang
-- Playground:read soucecode from https://github.com/yjl9903/AnimeGarden to learn astro
 - Plan:make some side projects with Flutter,and read through https://github.com/flutter/samples
 
 ### 🥕 Bio
