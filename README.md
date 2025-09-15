@@ -3,15 +3,13 @@
 
 ```kotlin
 data class Profile(
-    val tag: List<String> = listOf("gamer", "programmer", "student"),
-    val hobby: List<String> = listOf("game", "anime", "rock/punk music"),
-    val bio: String = "Learning software engineering. I like Python best, not Java.",
+    val tag: List<String> = listOf("gamer", "programmer", "collage student"),
+    val hobby: List<String> = listOf("game", "cooking", "music"),
+    val bio: String = "Solve problems and explore the world.",
     val contact: Map<String, String> = mapOf(
         "Email" to "me@dianas.cyou",
         "Blog" to "https://blog.dianas.cyou",
-        "Keybase" to "https://keybase.io/alicecoco",
         "Issue" to "https://github.com/sudoskys/sudoskys/issues",
-        "Sponsor" to "https://afdian.com/a/Suki1077"
     )
 )
 val me = Profile()
@@ -23,11 +21,11 @@ println(me)
 - Relearn:Research cluster deployment, database administration (DBA), algorithms. Review computer fundamentals, network fundamentals. Practice Golang backend.
 - Plan:Researching K8S
 - Plan:make some side projects with Flutter,and read through https://github.com/flutter/samples
+- Game: Rimworld is so fun!
 
 ### 🥕 Bio
 
 - I just want to write code and create something useful.
-- I frequently use JetBrains tools for programming, and I love their robustness.
 - I'm also a gamer and a music enthusiast. I play a bit of everything, and I listen to a wide variety of genres.
 
 <a href="https://wakatime.com">
